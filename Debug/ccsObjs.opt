@@ -1,0 +1,8 @@
+"./DIO.obj"
+"./LCD.obj"
+"./delay.obj"
+"./main.obj"
+"./stopWatch.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
